@@ -24,4 +24,4 @@ serviceAccount:
 
 service:
   type: ClusterIP
-  port: 80000
+  port: 80
